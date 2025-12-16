@@ -132,7 +132,7 @@ function App() {
   // Simple UI
   return (
     <div style={{ maxWidth: 720, margin: "40px auto", fontFamily: "Arial, sans-serif" }}>
-      <h1>Audio → Text & Text → Audio (Demo)</h1>
+      <h1>Rutuja Alhat TTS and STT App</h1>
       <section style={{ marginBottom: 24 }}>
         <h3>Record audio (browser) → Transcribe</h3>
         <div>
